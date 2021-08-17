@@ -37,6 +37,8 @@ namespace TwitterAPI_app
                 PictureBox profilePic = new PictureBox(); //PictureBoxインスタンス生成
                 Label getFollowerName = new Label();      //Labelインスタンス生成
 
+
+
                 //FlowLayoutPanelに画像を追加する処理
                 flowLayoutPanel1.Controls.Add(profilePic);
                 flowLayoutPanel1.Controls.Add(getFollowerName);
