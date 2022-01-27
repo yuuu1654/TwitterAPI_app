@@ -5,7 +5,7 @@
 
 アプリを作るに至った経緯・簡単な作成方法やつまずいたポイントをQiitaに詳細をまとめました。
 
-[C#でTweetinviパッケージを使って、WindowsフォームアプリケーションからTwitterAPIを叩いてみた。](https://qiita.com/yuuu1654/items/dc590acafc67f6b4974d　"TwitterAPI_app")
+[C#でTweetinviパッケージを使って、WindowsフォームアプリケーションからTwitterAPIを叩いてみた。](https://qiita.com/yuuu1654/items/dc590acafc67f6b4974d)
 
 
 #使用環境
